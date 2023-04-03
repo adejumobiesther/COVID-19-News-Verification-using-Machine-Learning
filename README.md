@@ -9,7 +9,7 @@ The dataset used in this project was obtained from the following paper:
 - Title: "CoAID: COVID-19 Healthcare Misinformation Dataset"
 - Publication Year: 2020
 
-Please note that the dataset is publicly available and can be accessed through the following link: [https://github.com/cuilimeng/CoAID].
+Please note that the dataset is publicly available and can be accessed through the following [link](https://github.com/cuilimeng/CoAID).
 
 
 ## Conclusion
